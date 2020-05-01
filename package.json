@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "my-typescript-understanding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": ["workspace-a", "workspace-b"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deviator206/my-typescript-understanding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deviator206/my-typescript-understanding/issues"
+  },
+  "homepage": "https://github.com/deviator206/my-typescript-understanding#readme"
+}
